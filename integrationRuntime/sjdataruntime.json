@@ -1,0 +1,6 @@
+{
+	"name": "sjdataruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

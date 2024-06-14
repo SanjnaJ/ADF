@@ -1,0 +1,9 @@
+{
+	"name": "sj-de-factory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4289c0d-9b10-48f6-b6b8-ff204e5196bf",
+		"tenantId": "3fa8e99e-5242-45c4-ae93-c66b313550db"
+	}
+}

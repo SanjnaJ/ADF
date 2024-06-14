@@ -1,0 +1,11 @@
+{
+	"name": "KeyVaultForOnPrem",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://sj-data-keyvault.vault.azure.net/"
+		}
+	}
+}
